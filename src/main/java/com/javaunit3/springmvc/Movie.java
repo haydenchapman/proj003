@@ -6,9 +6,9 @@ import org.springframework.stereotype.Component;
 
 public interface Movie {
 
-    public String getTitle();
+    String getTitle();
 
-    public String getMaturityRating();
+    String getMaturityRating();
 
-    public String getGenre();
+    String getGenre();
 }

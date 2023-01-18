@@ -14,7 +14,6 @@ public class VoteEntity
 
     @Column(name = "voter_Name")
     private String voterName;
-
     public Integer getId() {
         return id;
     }
