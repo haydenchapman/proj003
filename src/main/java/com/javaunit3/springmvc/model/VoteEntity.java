@@ -1,5 +1,4 @@
 package com.javaunit3.springmvc.model;
-
 import org.hibernate.SessionFactory;
 
 import javax.persistence.*;

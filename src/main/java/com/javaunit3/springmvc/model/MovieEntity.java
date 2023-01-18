@@ -1,5 +1,4 @@
 package com.javaunit3.springmvc.model;
-
 import javax.persistence.*;
 import java.util.List;
 

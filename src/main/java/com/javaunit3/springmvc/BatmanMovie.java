@@ -1,5 +1,4 @@
 package com.javaunit3.springmvc;
-
 import org.springframework.stereotype.Component;
 
 @Component
